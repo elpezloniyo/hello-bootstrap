@@ -1,5 +1,4 @@
 .container{
-    background: rebeccapurple;
     margin-bottom: 50px;
 
 }
@@ -12,4 +11,14 @@
 .col-12{
     border: 1px solid #000;
 
+} 
+
+.progress{
+    margin-bottom: 20px;
+} 
+
+.text0{
+    width: 200px;
+    height: 30
+    0px;
 } 
