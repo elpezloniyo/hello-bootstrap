@@ -1,0 +1,15 @@
+.container{
+    background: rebeccapurple;
+    margin-bottom: 50px;
+
+}
+
+.container-fluid{
+    background: burlywood;
+
+} 
+
+.col-12{
+    border: 1px solid #000;
+
+} 
